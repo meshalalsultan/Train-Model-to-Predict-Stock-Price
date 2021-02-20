@@ -33,3 +33,17 @@ on training predict
  [58.43314 ]
  [55.136597]
  [56.13356 ]]
+ 
+ 
+ ## TO USE 
+ *note : you must have tensorfloe = 2.0
+ 
+ 
+ - clone the repo by git clone meshalalsultan/Train-Model-to-Predict-Stock-Price
+ - cd Stock Pred With Keras
+ - go to get_data.py on any IDE and write the stock ticker you want and save all .
+ - on terminal python get_data.py to get and save the data .
+ - python price_pred.py to get the loss and figure
+
+
+ 
