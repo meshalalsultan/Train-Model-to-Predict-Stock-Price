@@ -39,7 +39,7 @@ on training predict
  *note : you must have tensorfloe = 2.0
  
  
- - clone the repo by git clone meshalalsultan/Train-Model-to-Predict-Stock-Price
+ - clone the repo by git clone https://github.com/meshalalsultan/Train-Model-to-Predict-Stock-Price.git
  - cd Stock Pred With Keras
  - go to get_data.py on any IDE and write the stock ticker you want and save all .
  - on terminal python get_data.py to get and save the data .
